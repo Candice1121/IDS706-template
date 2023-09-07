@@ -32,3 +32,7 @@ dask==2022.9.2
 # databricks-cli==0.17.3
 # databricks-sql-connector==2.1.0
 # mlflow==2.0.1
+
+#rust based linter
+ruff==0.0.284
+boto3==1.24.87
